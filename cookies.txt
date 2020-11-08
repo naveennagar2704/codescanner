@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.csb.app	TRUE	/	FALSE	1999999999	__cfduid	d41ca13088b929b5c711ece583621acf91604810326
+ilrm9.csb.app	TRUE	/	FALSE	1999999999	SameSite	Lax
+.rawgit.com	TRUE	/	FALSE	1999999999	__cfduid	df57639c07d8f9538b3e7fdb0e9ebac091604810339
+rawgit.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.codesandbox.io	TRUE	/	FALSE	1999999999	__cfduid	d2d69eea2750eeb80a6fbca247b656f861604810409
+codesandbox.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
